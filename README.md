@@ -53,5 +53,4 @@ I was explained below.
       If we change the check digit to 3 we will have on step 3 values 39 and hence we have
       70 on step 4 and 70 % 0 -> reminder is 0 -> means card number is valid.
 
-  Implementation in JavaScript (HTML included, just copy paste, save as HTML and run it on browser):
 
